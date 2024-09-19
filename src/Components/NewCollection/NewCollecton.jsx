@@ -1,7 +1,7 @@
-import React from 'react'
-import './NewCollection.css'
-import new_collections from '../Assets/new_collections'
-import Item from '../Item/Item'
+import React from 'react';
+import './NewCollection.css';
+import new_collections from '../Assets/new_collections';
+import Item from '../Item/Item';
 
 const NewCollecton = () => {
   return (
@@ -17,4 +17,4 @@ const NewCollecton = () => {
   )
 }
 
-export default NewCollecton
+export default NewCollecton;
