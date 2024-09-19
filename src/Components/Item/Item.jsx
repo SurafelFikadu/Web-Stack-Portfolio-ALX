@@ -1,6 +1,6 @@
-import React from 'react'
-import './Item.css'
-import { Link } from 'react-router-dom'
+import React from 'react';
+import './Item.css';
+import { Link } from 'react-router-dom';
 
 const Item = (props) => {
   return (
@@ -19,4 +19,4 @@ const Item = (props) => {
   )
 }
 
-export default Item
+export default Item;
