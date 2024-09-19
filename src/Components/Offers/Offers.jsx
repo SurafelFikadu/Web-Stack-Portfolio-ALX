@@ -1,5 +1,5 @@
-import React from 'react'
-import './Offers.css'
+import React from 'react';
+import './Offers.css';
 
 const Offers = () => {
   return (
@@ -13,4 +13,4 @@ const Offers = () => {
   )
 }
 
-export default Offers
+export default Offers;
