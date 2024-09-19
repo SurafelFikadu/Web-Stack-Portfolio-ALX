@@ -79,6 +79,7 @@
     color: white;
 }
 
+
 @media(max-width:1290px) {
     .navbar {
         padding: 12px 50px;
