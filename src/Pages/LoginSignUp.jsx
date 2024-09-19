@@ -1,5 +1,5 @@
-import React from 'react'
-import './CSS/LoginSignUp.css'
+import React from 'react';
+import './CSS/LoginSignUp.css';
 
 const LoginSignUp = () => {
   return (
@@ -22,4 +22,4 @@ const LoginSignUp = () => {
   )
 }
 
-export default LoginSignUp
+export default LoginSignUp;
