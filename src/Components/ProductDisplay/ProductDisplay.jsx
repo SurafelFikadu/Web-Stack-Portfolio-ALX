@@ -1,8 +1,8 @@
-import React, { useContext } from 'react'
-import './ProductDisplay.css'
-import star_icon from '../Assets/star_icon.png'
-import star_dull_icon from '../Assets/star_dull_icon.png'
-import { ShopContext } from '../../Context/ShopContext'
+import React, { useContext } from 'react';
+import './ProductDisplay.css';
+import star_icon from '../Assets/star_icon.png';
+import star_dull_icon from '../Assets/star_dull_icon.png';
+import { ShopContext } from '../../Context/ShopContext';
 
 const ProductDisplay = (props) => {
     const {product} = props;
@@ -43,4 +43,4 @@ const ProductDisplay = (props) => {
   )
 }
 
-export default ProductDisplay
+export default ProductDisplay;
