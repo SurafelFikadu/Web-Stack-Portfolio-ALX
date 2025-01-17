@@ -149,7 +149,7 @@
         display: block;
         width: 30px;
         rotate: -90deg;
-        transition: 0.5;
+        transition: 0.5s;
     }
 
     .nav-menu {
@@ -189,4 +189,4 @@
     .nav-login-cart {
         transform: scale(0.8);
     }
-}
+} 
